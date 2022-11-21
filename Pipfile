@@ -8,6 +8,8 @@ yfinance = "*"
 pandas = "*"
 pandas-datareader = "*"
 matplotlib = "*"
+findatapy = "*"
+requests = "*"
 
 [dev-packages]
 
