@@ -1,6 +1,14 @@
 # get_resultado - https://www.fundamentus.com.br/resultado.php
 # get_papel - https://www.fundamentus.com.br/detalhes.php?papel=WEGE3
 # list_papel_setor - https://www.fundamentus.com.br/resultado.php?setor=27
+# bancos - bb
+# agro - 
+# varejo - 
+# mineração - 27
+# ver melhor de cada setor
+# ver pl, roe, roic, marg.ebit
+
+
 
 import fundamentus
 # df = fundamentus.get_resultado()
