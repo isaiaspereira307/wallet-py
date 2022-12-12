@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-yfinance = "*"
 pandas = "*"
 pandas-datareader = "*"
 matplotlib = "*"
 findatapy = "*"
 requests = "*"
+fundamentus = "*"
 
 [dev-packages]
 
